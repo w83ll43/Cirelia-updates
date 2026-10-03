@@ -3,6 +3,6 @@
   "version": "0.2.0",
   "build": "10005",
   "notes": "新增\n• 内置中文漫画《小辣椒与萝卜头》和古腾堡小说源，可阅读《红楼梦》《西游记》。\n• 发现页增加动漫、漫画、小说分类，查找来源更方便。\n• 新增「关于 Cirelia」页面，检查更新、版本信息和致谢集中在这里。\n\n优化与修复\n• 加入 Bangumi 镜像加速，改善首页、排期表和封面加载；可在网络设置中切换直连。\n• 修复部分来源的图片 CDN 与站点域名不同导致封面、漫画正文加载失败的问题。\n• 更新提示采用居中弹窗，调整文字排版和按钮样式，长说明可滚动查看。\n• 暂时开放正式版的开发工具入口，方便预览组件和排查问题。",
-  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/272919f45ed4ca087403baf66c344319",
+  "installURL": "https://www.pgyer.com/cirelia-ios",
   "publishedAt": "2026-10-03T17:43:56.691Z"
 }
