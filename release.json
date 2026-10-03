@@ -1,8 +1,8 @@
 {
   "bundleID": "app.cirelia.ios",
-  "version": "0.1.0",
-  "build": "10002",
-  "notes": "优化「我的」页面及主要二级页，统一系统分组、文字层级与间距。播放器、阅读器、缓存等设置改为完整页面，新增字号与行高预览，整理备份、隐私、日志和更新界面。使用 iOS 系统导航与控件，iOS 26 呈现系统玻璃样式，较早版本保持传统样式，并修复底部导航遮挡。",
-  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/ff6bf25402764a813854541eaf244cc7",
-  "publishedAt": "2026-10-03T08:06:57.045Z"
+  "version": "0.1.1",
+  "build": "10003",
+  "notes": "优化首页、发现、收藏与作品目录，统一系统导航栏和操作入口。收藏范围使用系统分段控件，长作品名保留两行。\n作品目录的标签、年份与排序集中到筛选面板，搜索页使用系统搜索栏，仓库详情使用系统导航。\n规范版本管理：本次体验调整递增修订号，构建号以上次实际发布的安装包加一；上传前核对发布基准，成功后保留对应源码与中文日志。\n修复共用字体声明导致英文回退到衬线字体的问题，使用系统文字样式，保持现有大字模式；精简首页网络异常提示。",
+  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/bc045deeb6b97a1924a2a97a3b19bd0d",
+  "publishedAt": "2026-10-03T12:01:33.700Z"
 }
