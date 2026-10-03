@@ -1,8 +1,8 @@
 {
   "bundleID": "app.cirelia.ios",
-  "version": "0.2.1",
-  "build": "10006",
-  "notes": "优化与修复\n• 修复通过蒲公英安装时出现「无法验证其完整性」的安装包问题。",
+  "version": "0.2.2",
+  "build": "10007",
+  "notes": "优化与修复\n• 恢复 0.1.0 的紧凑内容样式，统一作品卡片、搜索框与页面筛选。\n• 保留大标题导航、关于页及现有功能，调整发现页分页的位置。",
   "installURL": "https://www.pgyer.com/cirelia-ios",
-  "publishedAt": "2026-10-03T18:25:56.077Z"
+  "publishedAt": "2026-10-03T19:09:02.195Z"
 }
