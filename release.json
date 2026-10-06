@@ -1,8 +1,8 @@
 {
   "bundleID": "app.cirelia.ios",
-  "version": "0.4.1",
-  "build": "10017",
-  "notes": "优化与修复\n• 修复停用自动检查的旧 Venera 仓库无法手动安装规则的问题，保留仓库停用状态与自定义名称。\n• 安装时遇到仓库删除、索引变化或规则名称不匹配，显示具体原因。",
-  "installURL": "https://www.pgyer.com/cirelia-ios",
-  "publishedAt": "2026-10-06T16:37:56.363Z"
+  "version": "0.5.0",
+  "build": "10018",
+  "notes": "新增\n• 漫画接近章末时预加载下一章，读到末尾继续滑动即可进入下一章。\n• 启动与返回应用时自动检查软件更新；立即更新可直接唤起系统安装确认，无需跳转网页。\n\n优化与修复\n• 漫画默认沉浸阅读，画面铺满屏幕；透明底部状态信息在阅读操作后显示约 3 秒，闲置与后台时隐藏。\n• 修复 hitomi 动态域名遗漏及连通性检测地址错误，已有安装记录自动兼容。",
+  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/a54973d9452064f9d8ee79cc09dd23fb",
+  "publishedAt": "2026-10-06T17:21:23.237Z"
 }
