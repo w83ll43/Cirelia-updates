@@ -1,8 +1,8 @@
 {
   "bundleID": "app.cirelia.ios",
-  "version": "0.7.1",
-  "build": "10021",
-  "notes": "新增\n• 规则源配置页显示待保存项数，可撤销修改和确认后恢复默认配置。\n\n优化与修复\n• 规则源详情按配置项、快捷操作与来源账号分组，统一开关、选项和输入框布局。\n• 刷新域名、签到等规则按钮集中展示；账号区清楚显示登录状态与可用登录方式。\n• 读取规则配置时显示加载状态，停用来源时说明如何启用相关操作。",
-  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/11db6930ef53e06e303b9c644a37d320",
-  "publishedAt": "2026-10-07T06:19:44.151786Z"
+  "version": "0.8.0",
+  "build": "10022",
+  "notes": "新增\n• 支持 Venera 来源提供的整本 ZIP 归档下载，保存后离线阅读，可暂停、重试和重启恢复。\n• 支持 Kazumi API 9，兼容 API 搜索、目录与 XPath 混合解析。\n\n优化与修复\n• 统一规则管理、仓库、详情、配置和账号页面风格，改善浅深色与窄屏显示。\n• 手动导入或修改规则后保留设置与回滚，修复更新绑定和取消预检残留；暂停仓库检查仍可手动更新。\n• 改善部分来源的搜索标题、作品标识、播放地址、请求头和图片处理兼容。\n• 保留单来源搜索与返回会话，改善离线下载恢复及中文小说段落排版。",
+  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/d3daa88111d88666586628f14a798de0",
+  "publishedAt": "2026-10-22T19:54:25.237124Z"
 }
